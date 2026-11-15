@@ -86,11 +86,11 @@ li {
     outline: 3px solid #b54e00;
     outline-offset: 4px;
 }
-footer{
+footer {
     painting: 15px;
     text-align: center;
     front-size: 14px;
-    color #526174;
+    color: #526174;
 } table, th, td {border: 1px solid black;}
 caption {font-weight:bold; color: blue}
 th {blackground-color: yellow;}
