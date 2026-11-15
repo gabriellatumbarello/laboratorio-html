@@ -86,8 +86,10 @@ li {
     outline: 3px solid #b54e00;
     outline-offset: 4px;
 }
+
+/* Piè di pagina */
 footer {
-    painting: 15px;
+    padding: 15px;
     text-align: center;
     font-size: 14px;
     color: #526174;
