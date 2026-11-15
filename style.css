@@ -91,7 +91,7 @@ footer{
     text-align: center;
     front-size: 14px;
     color #526174;
-} table,th,td {border: 1px solid black;}
+} table, th, td {border: 1px solid black;}
 caption {font-weight:bold; color: blue}
 th {blackground-color: yellow;}
 td {text-align: center;}
