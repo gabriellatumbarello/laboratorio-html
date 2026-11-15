@@ -89,7 +89,7 @@ li {
 footer {
     painting: 15px;
     text-align: center;
-    front-size: 14px;
+    font-size: 14px;
     color: #526174;
 } table, th, td {border: 1px solid black;}
 caption {font-weight:bold; color: blue}
