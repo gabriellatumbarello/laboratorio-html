@@ -98,6 +98,19 @@ caption {font-weight:bold; color: blue}
 th {background-color: yellow;}
 td {text-align: center;}
 
+body {
+background-color: lightyellow;
+}
+h1 {
+color: blue;
+text-align: center;
+}
+p {
+color: green;
+}
+. rosso {
+color: red;
+}
 
 
 
